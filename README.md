@@ -1,2 +1,2 @@
 # FanHuaACTTools.JJJSBTT
-FF14绝究极神兵ACT插件
+FF14绝究极神兵ACT插件源码，早就不在维护了但因需要现在开源
